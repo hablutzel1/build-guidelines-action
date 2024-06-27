@@ -2,7 +2,9 @@
 title: Good Test
 subtitle: Version X
 author:
+
   - CA/Browser Forum
+
 date: 7 January, 2021
 copyright: |
   Copyright 2021 CA/Browser Forum
